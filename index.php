@@ -9,6 +9,7 @@
 <body>
     <?php
         echo 'mamamia';
+        echo 'ai la trieu phu';
     ?>
 </body>
 </html>
